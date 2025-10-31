@@ -1,0 +1,16 @@
+{
+  "short_name": "Alter Ego",
+  "name": "Alter Ego",
+  "description": "An AI-powered focus coach that helps you concentrate on your tasks.",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}
