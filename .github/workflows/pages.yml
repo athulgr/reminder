@@ -30,7 +30,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          # Disable submodule fetch: .gitmodules contains an incomplete entry for 'alterego' and the Pages build doesn't require it.
+          # Disable submodule fetch: alterego submodule lacks URL configuration and the Pages build doesn't require it.
           submodules: false
 
       - name: Setup Pages
