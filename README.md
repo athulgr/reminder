@@ -6,7 +6,7 @@
 
 ## About
 
-**The APEX Alter Ego** is a unique, high-intensity web application designed to enforce daily compliance and motivation through psychological pressure. Unlike traditional supportive reminder apps, APEX leverages a **hostile Future Self persona** to deliver tasks, motivation, and guilt-trips exclusively through a chat-centric interface.
+**The  Alter Ego** is a unique, high-intensity web application designed to enforce daily compliance and motivation through psychological pressure. Unlike traditional supportive reminder apps, APEX leverages a **hostile Future Self persona** to deliver tasks, motivation, and guilt-trips exclusively through a chat-centric interface.
 
 This app is not for the faint of heart—it’s built to push users to achieve their most ambitious goals through **fear, guilt, and relentless accountability**.
 
@@ -14,7 +14,7 @@ This app is not for the faint of heart—it’s built to push users to achieve t
 
 ## Core Concept: The Hostile Future Self 🤖
 
-The success of APEX lies in the **APEX Alter Ego Persona**—an AI that embodies the user’s most accomplished future self.  
+The success  lies in the ** Alter Ego Persona**—an AI that embodies the user’s most accomplished future self.  
 
 - **Tone:** Insulting, cutting, direct, and authoritative. The AI is intentionally programmatically locked to resist friendliness.  
 - **Motivation:** All reminders, task settings, and feedback are delivered through aggressive, high-contrast chat messages designed to compel action.  
